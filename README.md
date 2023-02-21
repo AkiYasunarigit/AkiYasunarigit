@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AkiYasunarigit
-- 👀 I’m interested in Task Automation, Data Analysis amd Cloud
-- 🌱 I’m currently learning Python Programming
+- 👀 I’m super interested in Cloud, Task Automation, Container and Application development
+- 🌱 I’m currently learning Cloud Migration of Data/On-Premise Application
+- 🌱 I’m also learning AWS SDK fr my Cloud Resume project
 - 💞️ I’m looking to collaborate on any project with whoever can help me :)
 - 📫 How to reach me ...just hit me!
 
