@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AkiYasunarigit
-- 👀 I’m super interested in Cloud, Task Automation, Container and Application development
-- 🌱 I’m currently learning Cloud Migration of Data/On-Premise Application
-- 🌱 I’m also learning AWS SDK fr my Cloud Resume project
-- 💞️ I’m looking to collaborate on any project with whoever can help me :)
+- 👀 I’m super interested in K8S, AWS,and Application Development
+- 🌱 I’m currently pursuing to be Kubeastruonaut (aming high)
+- 🌱 I’m CKAD/AWS certified.
 - 📫 How to reach me ...just hit me!
 
 <!---
